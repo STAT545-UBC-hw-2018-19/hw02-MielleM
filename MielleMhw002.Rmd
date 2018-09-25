@@ -1,8 +1,6 @@
 ---
 title: "MielleM hw002"
-output:
-  github_document:
-    keep_md: true
+output: github_document
 ---
 #### To start off, let's get tidyverse and gapminder loaded
 Load gapminder data and tidyverse package
